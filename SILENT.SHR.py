@@ -788,7 +788,7 @@ logo = """
 ## ##  ###   ####  ##   ##
 ## ## ## ## ## ##  ##  ##
 ## ## ## ## ##     ## ##
-##### ## ## ##     ####
+##### ## ## ##   JIHADAzeidin  ####
 ## ## ##### ##     ## ##
 ## ## ## ## ## ##  ##  ##
 ## ## ## ##  ####  ##   ##
@@ -798,16 +798,16 @@ logo = """
 
                                                    
 
-\033[1;93m Author: Silent hacker 
+\033[1;93m Author: Jihad Azeidin 
 
 
-\033[1;93m Facebook: kio batao
+\033[1;93m Facebook: Jihad Azeidin 
 
 
-\033[1;93m YOUTUBE : abi tak channel hi nai banai 😢
+\033[1;93m YOUTUBE : ni0919686251 😢
 
 
-\033[1;91m Janii  WELCOME TO MY hicking world
+\033[1;91m Janii  0919686251
 
 \033[0;95m═══════════════════════════════════════════
 
