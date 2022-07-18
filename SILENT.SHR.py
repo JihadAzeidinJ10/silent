@@ -787,7 +787,7 @@ logo = """
 
 ## ##  ###   ####  ##   ##
 ## ## ## ## ## ##  ##  ##
-## ## ## ## ##     ## ##
+## ## ## ## ##Jihad Azeidin     ## ##
 ##### ## ## ##     ####
 ## ## ##### ##     ## ##
 ## ## ## ## ## ##  ##  ##
@@ -798,22 +798,23 @@ logo = """
 
                                                    
 
-\033[1;93m Author: Silent hacker 
+\033[1;93m Author: JihadAzeidin10 
 
 
-\033[1;93m Facebook: kio batao
+\033[1;93m Facebook: Jihad Azeidin 
 
 
-\033[1;93m YOUTUBE : abi tak channel hi nai banai 😢
+\033[1;93m YOUTUBE : 0919686251😢
 
 
-\033[1;91m Janii  WELCOME TO MY hicking world
+\033[1;91m Janii  WELCOME Q_7_D
 
 \033[0;95m═══════════════════════════════════════════
 
 \033[0;94m>>[\033[0;91mOWNER   :\033[0;92mSILENT HACKER     
 
-\033[0;94m>>[\033[0;91mUSER:\033[0;92      USER DEAD 
+\033[0;94m>>[\033[0;91mUSER:\033[0;92      تسجيل دخول 
+Jihad Azeidin تم
 
 \033[0;95m═══════════════════════════════════════════"""
 
